@@ -21,7 +21,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://wa.me/+967770500831 " ,
+            "value": "https://wa.me/+967771550103 " ,
             "required": true
       },
      "URL_2NAME": {
@@ -31,7 +31,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/F3BY5pbKsXF7iFq3Sm1V2n" ,
+            "value": "https://chat.whatsapp.com/EV1dtpn26WTGyR1nkWQ2Ko" ,
             "required": true
       },
       
@@ -78,7 +78,7 @@
       },
           "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "𝐁𝐎𝐓_𝐃𝐀𝐄𝐌𝐎𝐍_𝐑𝐀𝐈𝐙𝐄𝐋" ,
+            "value": "علي حيدر الواقدي " ,
             "required": true
       }
          
